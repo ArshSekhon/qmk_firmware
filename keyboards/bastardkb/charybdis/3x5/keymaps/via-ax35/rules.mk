@@ -1,0 +1,5 @@
+VIA_ENABLE = yes
+SRC += oneshot/oneshot.c
+OS_DETECTION_ENABLE = yes
+CONSOLE_ENABLE = yes
+SEND_STRING_ENABLE = yes
